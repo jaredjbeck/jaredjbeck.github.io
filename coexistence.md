@@ -1,1 +1,3 @@
-## PLANT COEXISTENCE IN TEMPERATE FORESTS
+## Plant coexistence in temperate forests
+
+![](https://jaredjbeck.github.io/hylodesmumcoexistence.jpg)
