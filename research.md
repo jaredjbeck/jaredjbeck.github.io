@@ -9,7 +9,7 @@ investigating the ecological mechanisms that promote coexistence among different
 
 Follow the links below to learn more about about my PhD research and other projects I have worked on:
 * Patterns and drivers of ecological change
-* Mechanisms maintaining plant diversity
+* [Mechanisms maintaining plant diversity](/coexistence.md)
 * [Forest dynamics in the Baraboo Hills](/forest_dynamics.md)
 * Evolutionary ecology of fire
-* Other research projects
+* [Other research projects](/other_research.md)
