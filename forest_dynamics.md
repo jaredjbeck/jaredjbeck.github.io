@@ -1,1 +1,3 @@
 ## FOREST DYNAMICS IN SOUTHERN WISCONSIN
+
+![](/jaredjbeck.github.io/IMG_2156.JPG)
