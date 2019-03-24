@@ -6,8 +6,8 @@ More specifically, I am exploring patterns and drivers of long-term ecological c
 investigating the ecological mechanisms that promote coexistence among different plant species.
 
 Follow the links below to learn more about about my PhD research and other projects I have worked on:
-* Patterns and drivers of ecological change
+* [Patterns and drivers of ecological change](ecological_change.md)
 * [Mechanisms maintaining plant diversity](/coexistence.md)
 * [Forest dynamics in the Baraboo Hills](/forest_dynamics.md)
-* Fire Ecology
+* [Fire Ecology](fire.md)
 * [Other research projects](/other_research.md)
