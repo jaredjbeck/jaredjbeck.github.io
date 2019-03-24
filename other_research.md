@@ -1,4 +1,4 @@
-## OTHER RESEARCH PROJECTS
+## Other research projects
 
 #### Nitrogen deposition and grazing in serpentine grasslands
 
