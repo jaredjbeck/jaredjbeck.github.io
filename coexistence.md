@@ -4,6 +4,10 @@
 
 The composition and diversity of ecological communities reflects a complex set of interactions between organisms and their environment. Using extensive plant community surveys from 290 forest stands across Wisconsin, I examined how plant co-occurrence patterns were influenced by environmental conditions, functional traits, and phylogenetic relationships. 
 
+#### Spatial patterns and fine-scale habitat partitioning among spring flowering forest herbs
+
+To explore whether forest herbs partition habitat at fine spatial scales, I mapped the distribution of *Hepatica acutiloba*, *Sanguinaria canadensis*, and *Trillium flexipes* within a 50 x 50 meter plot at McGilvra Woods State Natural Area (Sauk County, WI). 
+
 #### Plant-soil feedbacks and forest plant diversity
 
 Interactions between plants and soil microorganisms can influence the distribution, abundance, and diversity of plant species.
