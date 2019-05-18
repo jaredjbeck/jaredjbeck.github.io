@@ -6,7 +6,7 @@ The composition and diversity of ecological communities reflects a complex set o
 
 #### Spatial patterns and fine-scale habitat partitioning among spring flowering forest herbs
 
-To explore whether forest herbs partition habitat at fine spatial scales, I mapped the distribution of *Hepatica acutiloba*, *Sanguinaria canadensis*, and *Trillium flexipes* within a 50 x 50 meter plot at McGilvra Woods State Natural Area (Sauk County, WI). 
+To explore whether spring flowering forest herbs partition habitat at fine spatial scales, I mapped the distribution of *Hepatica acutiloba*, *Sanguinaria canadensis*, and *Trillium flexipes* within a 50 x 50 meter plot at McGilvra Woods State Natural Area (Sauk County, WI). *H. acutiloba* was restricted to shallow soils near the base of canopy trees while the distribution *S. canadensis* and *T. flexipes* did not reflect variation in soil depth of proximity to neighboring trees.
 
 #### Plant-soil feedbacks and forest plant diversity
 
