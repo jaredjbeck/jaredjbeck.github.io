@@ -12,3 +12,5 @@
 * D. Waller, **J. Beck**, A. Paulson, J. Richards, R. Toczydlowski, D. Li, S. Johnson, D. Rogers, G. Sonnier, K. Cameron, K. Sytsma, T. Givnish. Dimensions of biodiversity change in temperate forests.
 * **Beck, J.**, D. Li, S. Johnson, D. Rogers, T. Givnish, and D. Waller. Spatial- and phylogenetic-scale determine the influence of functional traits and evolutionary relatedness on plant community assembly.
 * Mckone, M., E. Williams, and **J. Beck**. 20-year changes in taxonomic and phylogenetic plant diversity across a series of prairie restorations.
+* **Beck, J.** and T. Givnish. Spatial patterns reveal fine-scale habitat partitioning among spring-flowering forest herbs.
+* **Beck, J.** and D. Waller. Variation in the strength of plant-soil feedbacks among temperate forest herbs. 
