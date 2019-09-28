@@ -4,8 +4,8 @@
 For my PhD, I am studying patterns of plant coexistence and diversity in temperate forests. 
 
 Follow the links below to learn more about about my PhD research and other projects I have worked on: <img src="https://jaredjbeck.github.io/images/h.acutiloba.png" align="right" width="100">
-* [Mechanisms maintaining plant diversity](/coexistence.md)
+* [Plant coexistence and diversity in temperate forests](/coexistence.md)
 * [Forest dynamics in the Baraboo Hills](/forest_dynamics.md)
-* [Fire Ecology](fire.md)
+* [Fire ecology](fire.md)
 * [Patterns and drivers of ecological change](ecological_change.md)
 * [Other research projects](/other_research.md)
