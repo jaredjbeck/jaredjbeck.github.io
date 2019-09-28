@@ -9,3 +9,7 @@
 #### Edge effects and grassland bird communities
 
 <img src="https://jaredjbeck.github.io/henslows.jpg" align="right" width="150"> As a consequence of extensive habitat loss, grassland bird populations are declining across North America. To better understand how the size and spatial configuration of restored prairies affect grassland breeding bird populations, I helped conduct a four year study monitoring the distribution and abundance of 14 species in Carleton College’s Cowling Arboretum. Grassland birds like Eastern Meadowlarks (*Sturnella magna*), Grasshopper Sparrows (*Ammodramus savannarum*), and Bobolinks (*Dolichonyx oryzivorus*) were strongly influenced by the presence of nearby forest edges. Total species diversity increased with distance from forest edges as obligate grassland species (those that depend exclusively on grasslands for foraging and breeding) avoided restored prairies near forest edges.
+
+
+
+#### 20 year changes in the plant composition and diversity of prairie restorations
