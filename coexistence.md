@@ -1,5 +1,7 @@
 ## Plant coexistence in temperate forests
 
+Herbaceous plants represent ~80 percent of the plant species found in temperate forest. How are all of these species able to coexist? My PhD research focuses on patterns of coexistence among forest herbs and the ecological processes that maintain plant species diversity in temperate forests.
+
 #### Examining the scale-dependent role of functional traits and phylogenetic relationships on plant community assembly
 
 The composition and diversity of ecological communities reflects a complex set of interactions between organisms and their environment. Using extensive plant community surveys from 290 forest stands across Wisconsin, I examined how plant co-occurrence patterns were influenced by environmental conditions, functional traits, and phylogenetic relationships. 
