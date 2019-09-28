@@ -14,7 +14,7 @@ to explore how physiological characteristics influence their distribution and co
 
 #### Soil depth and the spatial distribution of spring flowering forest herbs
 
-To explore whether spring flowering forest herbs partition habitat at fine spatial scales, I mapped the distribution of *Hepatica acutiloba*, *Sanguinaria canadensis*, and *Trillium flexipes* within a 50 x 50 meter plot at McGilvra Woods State Natural Area (Sauk County, WI). *H. acutiloba* was restricted to shallow soils near the base of canopy trees while the distribution *S. canadensis* and *T. flexipes* did not reflect variation in soil depth of proximity to neighboring trees.
+<img src="https://jaredjbeck.github.io/images/h.acutiloba.jpg" width="200" align="right">To explore whether spring flowering forest herbs partition habitat at fine spatial scales, I mapped the distribution of *Hepatica acutiloba*, *Sanguinaria canadensis*, and *Trillium flexipes* within a 50 x 50 meter plot at McGilvra Woods State Natural Area (Sauk County, WI). *H. acutiloba* was restricted to shallow soils near the base of canopy trees while the distribution *S. canadensis* and *T. flexipes* did not reflect variation in soil depth of proximity to neighboring trees.
 
 #### Variation in the strength of plant-soil feedbacks among forest herbs
 
