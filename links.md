@@ -10,6 +10,12 @@
 
 [The Nature Conservancy](https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/priority-area-the-baraboo-hills/)
 
+Wisconsin Botanical Club
+
+Wisconsin Society for Ornithology
+
+Audubon Society
+
 
 ## Research groups
 
