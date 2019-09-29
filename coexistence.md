@@ -4,7 +4,7 @@ Herbaceous plants represent ~80 percent of the plant species found in temperate 
 
 #### Examining the scale-dependent role of functional traits and phylogenetic relationships on plant community assembly
 
-<img src="https://jaredjbeck.github.io/images/wi_pel_map.png" width="250" align="right">The composition and diversity of ecological communities reflects a complex set of interactions between organisms and their environment. Using extensive plant community surveys from 290 forest stands across Wisconsin, I examined how plant co-occurrence patterns were influenced by environmental conditions, functional traits, and phylogenetic relationships. 
+<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/wi_pel_map.png" width="250" align="right">The composition and diversity of ecological communities reflects a complex set of interactions between organisms and their environment. Using extensive plant community surveys from 290 forest stands across Wisconsin, I examined how plant co-occurrence patterns were influenced by environmental conditions, functional traits, and phylogenetic relationships. 
 
 #### Coexistence among close relatives
 
@@ -20,6 +20,6 @@ to explore how physiological characteristics influence their distribution and co
 
 #### Variation in the strength of plant-soil feedbacks among forest herbs
 
-<img src="https://jaredjbeck.github.io/images/psf_expt.png" width="250" align="left">Interactions between plants and soil microorganisms can influence the distribution, abundance, and diversity of plant species.
+<img style="padding: 0 15px; float: left;" src="https://jaredjbeck.github.io/images/psf_expt.png" width="250" align="left">Interactions between plants and soil microorganisms can influence the distribution, abundance, and diversity of plant species.
 To investigate whether plant-soil feedbacks promote coexistence among temperate forest herbs, I conducted a greenhouse experiment 
 growing 9 herbaceous plant species in soils with different microbial communities.
