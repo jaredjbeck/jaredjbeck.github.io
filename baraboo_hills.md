@@ -18,3 +18,4 @@ Monitoring the growth and mortality of individual trees will allow us to address
 <img style="padding: 0 15px; float: left;" src="https://jaredjbeck.github.io/images/IMG_1109.JPG" width="250" align="left"> 
 
 #### Multiple scales of environmental heterogeneity and the distribution of plant species within a quartzite glade
+<img style="padding: 0 15px; float: left;" src="https://jaredjbeck.github.io/images/IMG_3524.png" width="250" align="right">
