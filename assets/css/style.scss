@@ -2,5 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-.rpad {padding-right: 1em;};
-.lpad {padding-left: 1em;}
+
+img {
+  max-width: 100%;
+  padding: 5px;
+}
