@@ -8,7 +8,7 @@ Herbaceous plants represent ~80 percent of the plant species found in temperate 
 
 #### Coexistence among close relatives
 
-<img src="https://jaredjbeck.github.io/hylodesmumcoexistence.jpg" width="125" align="left"> Coexistence among closely related species poses an ecological dilemma: as a result of the evolutionary history,
+<img style="padding: 0 15px; float: left;" src="https://jaredjbeck.github.io/hylodesmumcoexistence.jpg" width="125" align="left"> Coexistence among closely related species poses an ecological dilemma: as a result of the evolutionary history,
 close relatives often share ecological characteristics. This favors co-occurrence in suitable habitats. Yet, species 
 that are too ecologically similar are expected to compete more strongly leading to competitive exclusion. I am studying
 a pair of herbaceous plants, *Hylodesmum glutinosum* and *H. nudiflorum*, that co-occur regularly in eastern North American forests
