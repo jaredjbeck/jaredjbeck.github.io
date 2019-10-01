@@ -5,7 +5,7 @@ The Baraboo Hills and surrounding landsape support more than 1300 plant species!
 See descriptions below for several research projects I have in the Baraboo Hills. Also check out my [PhD research](/coexistence).
 
 #### Monitoring forest dynamics
-<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/IMG_2156.JPG" width="250" align="right">
+<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/IMG_2156.JPG" width="300" align="right">
 
 Beginning in 2018, I established a network of 1 hectare plots within the Baraboo Hills to monitoring forest dynamics. Within each plot, my team identified, mapped, measured, and permanently tagged every tree greater than 1 centimeter DBH (a total of 4708 trees!). Additionally, we surveyed tree seedlings in ~360 quadrats, took hemisperhical photographs to quantify canopy cover, and characterized soil characteristics.
 
