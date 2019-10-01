@@ -15,7 +15,7 @@ Monitoring the growth and mortality of individual trees will allow us to address
 * Does tree growth or mortality vary with proximity to neighboring trees or the density of conspecific individuals?
 
 #### Topography, microclimatic variation, and the distribution of plants within stream gorges
-<img style="padding: 0 15px; float: left;" src="https://jaredjbeck.github.io/images/IMG_1109.JPG" width="250" align="left"> 
+<img style="padding: 0 15px; float: left;" src="https://jaredjbeck.github.io/images/IMG_1109.JPG" width="250" align="left"> Stream gorges in the Baraboo Hills support an incredible diversity of plant species and plant communities that transition abruptly from oak woodlands characteristic of southern Wisconsin to hemlock-hardwood forest stands typically found at more northern latitudes. 
 
 #### Multiple scales of environmental heterogeneity and the distribution of plant species within a quartzite glade
 <img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/IMG_3624.png" width="200" align="right">
