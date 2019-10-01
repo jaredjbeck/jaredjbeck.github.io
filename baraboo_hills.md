@@ -18,4 +18,6 @@ Monitoring the growth and mortality of individual trees will allow us to address
 <img style="padding: 0 15px; float: left;" src="https://jaredjbeck.github.io/images/IMG_1109.JPG" width="250" align="left"> 
 
 #### Multiple scales of environmental heterogeneity and the distribution of plant species within a quartzite glade
-<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/IMG_3624.png" width="250" align="right">
+<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/IMG_3624.png" width="200" align="right">
+
+Bedrock glades are unique plant communities characterized by sparse tree cover and thin, discontinuous soil with exposed bedrock. Glades often support an eclectic assortment of plant species associated with prairies, savannas, woodlands, and rock outcrops. 
