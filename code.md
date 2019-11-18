@@ -1,5 +1,3 @@
 ## R Code
 
-### R utility functions
-
-### R spatial functions
+### rtoybox: Jared's collection of utility functions for R
