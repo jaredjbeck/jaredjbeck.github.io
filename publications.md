@@ -14,4 +14,4 @@
 * Mckone, M., E. Williams, and **J. Beck**. 20-year changes in taxonomic and phylogenetic plant diversity across a series of prairie restorations. *In preparation.*
 * A. Paulson, **J. Beck**, J. Richards, R. Toczydlowski, D. Li, S. Johnson, D. Rogers, G. Sonnier, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Dimensions of biodiversity change in temperate forests. *In preparation.*
 * **Beck, J.**, D. Li, S. Johnson, D. Rogers, T. Givnish, and D. Waller. Examining the influence of functional traits and evolutionary relatedness on plant community assembly. *In preparation.*
-* **Beck, J.**, A. Salvi, and R. Henderson. A coexistence conundrum? Examining the comparative physiology and spatial distribution of co-occurring congeners, *Hylodesmum glutinosum* and *H. nudiflorum*. *In preparation.*
+* **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. A coexistence conundrum? Examining the comparative physiology and spatial distribution of co-occurring congeners, *Hylodesmum glutinosum* and *H. nudiflorum*. *In preparation.*
