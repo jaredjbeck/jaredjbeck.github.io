@@ -2,9 +2,9 @@
 
 Herbaceous plants represent ~80 percent of the plant species found in temperate forest. How can all of these species coexist? My PhD research explores factors influencing the distribution, abundance, and diversity of herbaceous plant species in temperate forests. I am especially interested in processes that facilitate local coexistence and help maintain plant species diversity in temperate forests.
 
-#### Examining the scale-dependent role of functional traits and phylogenetic relationships on plant community assembly
+#### Examining the influence of functional traits and phylogenetic relationships on plant community assembly
 
-<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/wi_pel_map.png" width="250" align="right">The composition and diversity of ecological communities reflects a complex set of interactions between organisms and their environment. Using extensive plant community surveys from 247 forest stands across Wisconsin, I examined how plant distributions were influenced by environmental conditions, functional traits, and phylogenetic relationships. 
+<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/wi_pel_map.png" width="250" align="right">The composition and diversity of ecological communities reflects a complex set of interactions between organisms and their environment. Using extensive plant community surveys from 247 forest stands across Wisconsin, I examined how plant distributions were influenced by environmental conditions, functional traits, and phylogenetic relationships. Plant distributions across the landscape were strongly influenced by plant traits and environmental conditions. Within forest stands, however, neither traits nor phylogenetic relationships predicted patterns of species co-occurrence at finer spatial scales.
 
 #### Coexistence among close relatives
 
