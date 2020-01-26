@@ -4,7 +4,7 @@
 
 I am a PhD student at the University of Wisconsin-Madison studying plant ecology and conservation biology. [My PhD research](/coexistence.md) focuses on patterns of coexistence and diversity in temperate forests.
 
-[Jared's CV](/content/BECK_CV_1Nov2019.pdf)
+[Jared's CV](/content/BECK_CV_20Jan2020.pdf)
 
 #### Education
 BA Biology, Carleton College (2010-2014)
