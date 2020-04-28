@@ -1,4 +1,4 @@
-## Data sets
+## Data sets and reproducible analyses
 
 Upon publication, I post data sets and scripts for my research projects.
 
