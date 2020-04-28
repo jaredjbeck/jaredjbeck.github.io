@@ -1,6 +1,6 @@
 ## Data sets and reproducible analyses
 
-Upon publication, I post data sets and scripts that facilitate reproducible analyses. Please contact Jared for permission to use these data sets for educational or research purposes (Email: jared.j.beck@gmail.com).
+Upon publication, I post data sets and scripts that facilitate reproducible analyses. Please contact Jared to receive formal permission to use these data sets for educational or research purposes (Email: jared.j.beck@gmail.com). 
 
 #### Variation in plant-soil feedbacks among temperate forest herbs
 
