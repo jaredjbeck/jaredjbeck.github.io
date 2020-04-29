@@ -4,4 +4,4 @@ Jared's PhD exit seminar will be held virtually on May 6, 2020 at 10:00 AM CDT. 
 
 Please mute yourself (microphone button at bottom of window) and turn off video (video camera buttom at bottom of window) during the virtual talk to conserve bandwidth.
 
-<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/content/Beck_PhD_Exit_Seminar_Poster.pdf" width="300" align="right">
+<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/content/Beck_PhD_Exit_Seminar_Poster.png" width="500" align="left">
