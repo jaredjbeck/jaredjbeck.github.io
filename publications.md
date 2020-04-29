@@ -17,3 +17,4 @@
 * Mckone, M., E. Williams, and **J. Beck**. Evidence for community assembly processes from long-term
 observations of biodiversity in a grassland chronosequence. *In preparation.*
 * A. Paulson, **J. Beck**, J. Richards, R. Toczydlowski, D. Li, S. Johnson, D. Rogers, G. Sonnier, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Dimensions of biodiversity change in temperate forests. *In preparation.*
+* **Beck, J.**, D. Rogers, S. Johnson, and D. Waller. Functional traits, phylogenetic relationships, and *Carex* community assembly in temperate forests. *In preparation.*
