@@ -6,7 +6,8 @@ Jared's PhD exit seminar will be held virtually on May 6, 2020 at 10:00 AM CDT. 
 
 To ensure things run smoothly, here are a few requests/tips:
 * Please consider joining the meeting a couple minutes early, this will help me sort out any last-minute technical issues
-* Please turn off your microphone and video upon entering the virtual meeting (click on the microphone and video symbols in the lower part of the meeting window), this should help us avoid problems with limited bandwidth
-* At the conclusion of my talk, there will be an opportunity to ask questions via the "chat" feature or by clicking the "raise hand" button.Please mute yourself (microphone button at bottom of window) and turn off video (video camera buttom at bottom of window) during the virtual talk to conserve bandwidth.
+* You will need to permit the software to access your computer's microphone and camera if you want to speak/use video (it may prompt you a couple times for access which is annoying)
+* Please turn off your microphone and video upon entering the virtual meeting (click on the microphone and video symbols in the lower part of the meeting window) to conserve bandwidth
+* At the conclusion of my talk, there will be an opportunity to ask questions via the "chat" feature or by clicking the "raise hand" button. You can unmute yourself (microphone button at bottom of window) and turn on video (video camera buttom at bottom of window) to ask questions
 
 Thanks!
