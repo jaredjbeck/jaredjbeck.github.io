@@ -11,7 +11,7 @@
 
 *Manuscripts in preparation*
 
-* **Beck, J.**, D. Li, S. Johnson, D. Rogers, T. Givnish, and D. Waller. Asymmetrical pegs in square holes? Functional and phylogenetic determinants of plant community assembly in temperate forests. *In preparation.*
+* **Beck, J.**, D. Li, S. Johnson, D. Rogers, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Asymmetrical pegs in square holes? Functional and phylogenetic determinants of plant community assembly in temperate forests. *In preparation.*
 * **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. Coexistence revisited: Can we integrate demographic, physiological, and 
 		distributional data to understand patterns of co-occurrence among close relatives? *In preparation.*
 * Mckone, M., E. Williams, and **J. Beck**. Evidence for community assembly processes from long-term
