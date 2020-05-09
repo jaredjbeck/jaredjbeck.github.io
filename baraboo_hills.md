@@ -21,3 +21,7 @@ Monitoring the growth and mortality of individual trees will allow us to address
 <img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/IMG_3624.png" width="200" align="right">
 
 Bedrock glades are unique plant communities characterized by sparse tree cover and thin, discontinuous soil with exposed bedrock. Glades often support an eclectic assortment of plant species associated with prairies, savannas, woodlands, and rock outcrops. I studied plant distributions within the largest concentration of glades in the Baraboo Hills to understand what factors determine how species are distributed within these diverse and unique plant communities.
+
+#### Long-term vegetation monitoring
+
+I established a network of plots designed to study long-term vegetation dynamics across the Baraboo Hills.
