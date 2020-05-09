@@ -9,7 +9,7 @@ In my spare time, I enjoy spending time outdoors: hiking, camping, canoeing, bir
 #### Education
 BA Biology, Carleton College (2010-2014)
 
-PhD Botany, University of Wisconsin-Madison (2016-*present*)
+PhD Botany, University of Wisconsin-Madison (2016-2020)
 
 #### Contact information
 jbeck6@wisc.edu | 430 Lincoln Dr, Madison, WI 53706
