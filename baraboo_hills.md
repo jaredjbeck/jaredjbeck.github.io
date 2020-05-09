@@ -24,4 +24,7 @@ Bedrock glades are unique plant communities characterized by sparse tree cover a
 
 #### Long-term vegetation monitoring
 
-I established a network of plots designed to study long-term vegetation dynamics across the Baraboo Hills.
+I established a network of plots designed to study long-term vegetation dynamics across the Baraboo Hills. These plots are stratified by land use history, slope, aspect, and vegetation type. 
+
+* How do different management techniques (e.g. prescribed fire & thinning trees) affect vegetation dynamics?
+* How will climate change affect the distribution and dynamics of plant communities?
