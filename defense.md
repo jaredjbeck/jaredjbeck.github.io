@@ -4,3 +4,5 @@
 
 
 Jared's PhD exit seminar was held virtually on May 6, 2020. A [recording](https://www.youtube.com/watch?v=M62W48OAZyQ) of the exit talk was posted to the UW-Madison Botany Department's YouTube Channel. 
+
+{% include youtubePlayer.html id="M62W48OAZyQ" %}
