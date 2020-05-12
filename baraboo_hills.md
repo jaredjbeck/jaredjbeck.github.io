@@ -21,11 +21,11 @@ I established a network of plots designed to study long-term vegetation dynamics
 * How do different management techniques (e.g. prescribed fire & thinning trees) affect vegetation dynamics?
 * How will climate change affect the distribution and dynamics of plant communities?
 
-#### Topography, microclimatic variation, and the distribution of plants within stream gorges
-<img style="padding: 0 15px; float: left;" src="https://jaredjbeck.github.io/images/IMG_1109.JPG" width="250" align="left"> Stream gorges in the Baraboo Hills support an incredible diversity of plant species and plant communities that transition abruptly from oak woodlands characteristic of southern Wisconsin to hemlock-hardwood forest stands typically found at more northern latitudes. In collaboration with a student researcher at UW-Madison, I helped conduct a study to characterize plant distributions within these stream gorges and better understand the factors that support high plant diversity.
-
 #### Multiple scales of environmental heterogeneity and the distribution of plant species within a quartzite glade
 <img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/IMG_3624.png" width="200" align="right">
 
 Bedrock glades are unique plant communities characterized by sparse tree cover and thin, discontinuous soil with exposed bedrock. Glades often support an eclectic assortment of plant species associated with prairies, savannas, woodlands, and rock outcrops. I studied plant distributions within the largest concentration of glades in the Baraboo Hills to understand what factors determine how species are distributed within these diverse and unique plant communities.
+
+#### Topography, microclimatic variation, and the distribution of plants within stream gorges
+<img style="padding: 0 15px; float: left;" src="https://jaredjbeck.github.io/images/IMG_1109.JPG" width="250" align="left"> Stream gorges in the Baraboo Hills support an incredible diversity of plant species and plant communities that transition abruptly from oak woodlands characteristic of southern Wisconsin to hemlock-hardwood forest stands typically found at more northern latitudes. In collaboration with a student researcher at UW-Madison, I helped conduct a study to characterize plant distributions within these stream gorges and better understand the factors that support high plant diversity.
 
