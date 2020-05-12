@@ -1,6 +1,6 @@
 ## Plant coexistence in temperate forests
 
-Herbaceous plants represent ~80 percent of the plant species found in temperate forest. How can all of these species coexist? My PhD research explores factors influencing the distribution, abundance, and diversity of herbaceous plant species in temperate forests. I am especially interested in processes that facilitate local coexistence and help maintain plant species diversity in temperate forests.
+Herbaceous plants represent ~80 percent of the plant species found in temperate forest. How can all of these species coexist? My PhD research explored factors influencing the distribution, abundance, and diversity of herbaceous plant species in temperate forests. I am especially interested in processes that facilitate local coexistence and help maintain plant species diversity in temperate forests. A [recording](https://www.youtube.com/watch?v=M62W48OAZyQ) of my PhD exit seminar is available the UW-Madison Botany Department’s YouTube Channel.
 
 #### Examining the influence of functional traits and phylogenetic relationships on plant community assembly
 
