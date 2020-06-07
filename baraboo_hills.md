@@ -20,7 +20,8 @@ Monitoring the growth and mortality of individual trees will allow us to address
 
 I established a network of plots designed to study long-term vegetation dynamics across the Baraboo Hills. These plots are stratified by land use history, slope, aspect, and vegetation type. 
 
-* How do different management techniques (e.g. prescribed fire & thinning trees) affect vegetation dynamics?
+* How does land use history affect the composition and diversity of plant communities?
+* How do management practices such as the use of prescribed fire & thinning trees affect vegetation dynamics?
 * How will climate change affect the distribution and dynamics of plant communities?
 
 #### Environmental heterogeneity and the distribution of plant species within a quartzite glade
