@@ -16,7 +16,7 @@ Monitoring the growth and mortality of individual trees will allow us to address
 
 #### Long-term vegetation monitoring
 
-<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/content/map_of_bh_monitoring plots.png " width="300" align="left">
+<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/content/baraboo_hills_monitoring_plot_map.png" width="300" align="left">
 
 I established a network of plots designed to study long-term vegetation dynamics across the Baraboo Hills. These plots are stratified by land use history, slope, aspect, and vegetation type. 
 
