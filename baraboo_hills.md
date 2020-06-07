@@ -16,9 +16,9 @@ Monitoring the growth and mortality of individual trees will allow us to address
 
 #### Long-term vegetation monitoring
 
-I am establishing a network of plots designed to study long-term vegetation dynamics across the Baraboo Hills. These plots are stratified by land use history, slope, aspect, and vegetation type. 
-
 <img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/content/baraboo_hills_monitoring_plot_map.png" width="450" align="left">
+
+I am establishing a network of plots designed to study long-term vegetation dynamics across the Baraboo Hills. These plots are stratified by land use history, slope, aspect, and vegetation type. 
 
 * How does land use history affect the composition and diversity of plant communities?
 * How do management practices such as the use of prescribed fire & thinning trees affect vegetation dynamics?
