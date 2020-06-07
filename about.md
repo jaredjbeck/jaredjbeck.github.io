@@ -2,7 +2,7 @@
 
 <img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/IMG_1145.png"  align="right" width="200">
 
-I am a PhD student at the University of Wisconsin-Madison studying plant ecology and conservation biology. [My PhD research](/coexistence.md) focuses on patterns of coexistence and diversity in temperate forests. See [Jared's CV](/content/BECK_CV_20Jan2020.pdf).
+I recently received my PhD from the University of Wisconsin-Madison where I studied plant ecology and conservation biology. [My PhD research](/coexistence.md) focused on patterns of coexistence and diversity in temperate forests. See [Jared's CV](/content/BECK_CV_20Jan2020.pdf).
 
 In my spare time, I enjoy spending time outdoors: hiking, camping, canoeing, birding, botanizing, exploring the natural world, or working on restoration projects. My fascination with ducks and salamanders borders on obsession.
 
