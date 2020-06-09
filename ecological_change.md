@@ -1,6 +1,6 @@
-## Ecological change
+# Patterns and drivers of ecological change
 
-#### Dimensions of biodiversity change in temperate forests
+## Dimensions of biodiversity change in temperate forests
 
 <img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/content/PEL_logo.png" width="100" align="right">
 
