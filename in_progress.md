@@ -7,6 +7,8 @@ Noe Woods, an oak woodland within the University of Wisconsin-Madison Arboretum.
 
 ## Functional traits, phylogenetic relationships, and *Carex* community assembly in temperate forests
 
+<img style="padding: 0 15px; float: left;" src="https://jaredjbeck.github.io/content/carex_heatmap.png" width="400" align="left">
+
 33 *Carex* species across 185 forest stands in Wisconsin. We examined how the distribution of these *Carex* species was influenced by environmental conditions, the extent to which those species-environment relationships reflected functional traits or phylogenetic relationships, and how phylogenetic relationships influenced patterns of species co-occurrence. 
 
 ## Dimensions of biodiversity change in temperate forests
