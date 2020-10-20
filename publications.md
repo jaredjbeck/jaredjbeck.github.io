@@ -6,7 +6,7 @@
 * **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. A coexistence conundrum? Integrating demographic, physiological, and distributional data to understand patterns of co-occurrence among close relatives. *In review at Journal of Ecology.*
 * Mckone, M., E. Williams, and **J. Beck**. Evidence for community assembly processes from long-term
 observations of biodiversity in a grassland chronosequence. *In review at Journal of Applied Ecology.*
-* **Beck, J.** Variation in plant-soil feedbacks among temperate forest herbs. *In review at Plant and Soil.*
+* **Beck, J.** Variation in plant-soil feedbacks among temperate forest herbs. *In review at Plant Ecology.*
 * **Beck, J.** and T. Givnish. *In press.* Fine-scale environmental heterogeneity and spatial niche partitioning among spring-flowering forest herbs. American Journal of Botany.
 * Wagenius, S., **J. Beck**, and G. Kiefer. 2020. Fire synchronizes flowering and boosts reproduction in a declining prairie species. Proceedings of the National Academy of Sciences 117:3000-3005.
 * **Beck, J.**, B. Larget, and D. Waller. Phantom species: Adjusting colonization and extinction for pseudo-turnover. Oikos 127:1605-1618.
