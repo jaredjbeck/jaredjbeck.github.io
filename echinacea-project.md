@@ -1,9 +1,13 @@
-## The Echinacea Project
+## The influence of fire on plant reproduction and population dynamics in remnant prairies
 
-<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/Bshx5HQCUAAIzLL.jpg"  align="right" width="200">The Echinacea Project is a research program focused on understanding the ecological and evolutionary consequences of habitat loss and fragmentation in the prairies of western Minnesota using *Echinacea angustifolia* as a model organism. Learn more about at the Echinacea Project [website](http://echinaceaproject.org/).
+<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/Bshx5HQCUAAIzLL.jpg"  align="right" width="200"> I am currently a Postdoctoral Research Scientist at the Chicago Botanic Garden studying how fire influences plant reproduction and population dynamics in remnant prairies. For this research, I am collaborating Dr. Stuart Wagenius and the [Echinacea Project](http://echinaceaproject.org/) to build on our previous work illustrating how fire synchronizes flowering and promotes successful reproduction in the pale-leaved purple coneflower (*Echinacea angustifolia*).
 
-#### Burning for a mate: The role of fire in prairie plant reproduction
+#### Fire promotes successful reproduction in *Echinacea angusitifolia*, a widespread but declining plant species
 
 In collaboration with members of the Echinacea Project, I investigated the effects of fire on plant reproduction and population dynamics in fragmented prairies. Less than 1 percent of the once expansive tallgrass prairie remains in the upper Midwest. Most of these remnant prairies are small, isolated, losing plant species at an alarming rate (more than 1 species per year). Fire helps maintain plant diversity in these remnant prairies but its beneficial effects are not fully understood. To examine how fire affects plant reproduction and population dynamics, we monitored reproduction in 767 *Echinacea angustifolia* plants over a 21-year period (1996-2016). Prescribed fires stimulated flowering and synchronized reproduction in an *Echinacea* population where limited mating opportunities reduce pollination efficiency and seed production. The increase in mating opportunities after fire improved pollination and seed production. Given that many species flower in response to fire, we predict fire helps maintain plant diversity in prairies (and other fire-dependent ecosystems) not only by preventing competitive exclusion but also by enhancing seed production and promoting population growth. 
 
 Here is a [video](https://vimeo.com/341634035) describing our research as well as popular press articles in [The New York Times](https://www.nytimes.com/2020/01/27/science/fire-coneflowers-echinacea-pollination.html) and [Popular Science](https://www.popsci.com/story/environment/prairie-fire-flowers/)!
+
+#### How does fire influence plant population growth and persistence in remnant prairies?
+
+As a postdoctoral researcher, I am building on our previous work to investigate whether the positive effects of fire on plant reproduction are consistent across *Echinacea* populations and for other prairie plant species. We will be experimentally burning prairie remnants and monitoring plant responses to fire to characterize reproductive responses to fire. Using this information as well as demographic data
