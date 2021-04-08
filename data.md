@@ -6,7 +6,7 @@ Upon publication, I post data sets and scripts that facilitate reproducible anal
 
 See [article](https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1593) published in American Journal of Botany, data sets and R code below:
 
-[Metadata](/content/datasets/mcgilvra_woods_herb_mapping_metadata.txt) | [Herb distribution data](content/datasets/mcgilvra_woods_herb_mapping_5nov2019jb.csv) | [Soil depth data](content/datasets/mcgilvra_woods_reference_soil_depth_data_5nov2019jb.csv) | [Tree distribution data](content/datasets/mcgilvra_woods_tree_data_5nov2019jb.csv) | R script
+[R script](/content/datasets/AppendixS12_mcgilvra_r_script.R) | [Metadata](/content/datasets/AppendixS8_metadata.pdf) | [Herb distribution data](content/datasets/AppendixS9_mcgilvra_herb_data.csv) | [Soil depth data](content/datasets/AppendixS10_micgilvra_soil_data.csv) | [Tree distribution data](content/datasets/AppendixS11_mcgilvra_tree_data.csv)
 
 #### Variation in plant-soil feedbacks among temperate forest herbs
 
