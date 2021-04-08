@@ -4,7 +4,7 @@ Upon publication, I post data sets and scripts that facilitate reproducible anal
 
 #### Local herb distributions at McGilvra State Natural Area
 
-See [article](https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1593) published in American Journal of Botany, data sets below:
+See [article](https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1593) published in American Journal of Botany, data sets and R code below:
 
 [Metadata](/content/datasets/mcgilvra_woods_herb_mapping_metadata.txt)
 
@@ -13,6 +13,8 @@ See [article](https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1593)
 [Soil depth data](content/datasets/mcgilvra_woods_reference_soil_depth_data_5nov2019jb.csv)
 
 [Tree distribution data](content/datasets/mcgilvra_woods_tree_data_5nov2019jb.csv)
+
+R script
 
 #### Variation in plant-soil feedbacks among temperate forest herbs
 
