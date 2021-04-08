@@ -8,11 +8,11 @@ See [article](https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1593)
 
 [Metadata](/content/datasets/mcgilvra_woods_herb_mapping_metadata.txt)
 
-[Herb distribution data]()
+[Herb distribution data](content/datasets/mcgilvra_woods_herb_mapping_5nov2019jb.csv)
 
-[Soil depth data]()
+[Soil depth data](content/datasets/mcgilvra_woods_reference_soil_depth_data_5nov2019jb.csv)
 
-[Tree distribution data]()
+[Tree distribution data](content/datasets/mcgilvra_woods_tree_data_5nov2019jb.csv)
 
 #### Variation in plant-soil feedbacks among temperate forest herbs
 
