@@ -2,13 +2,19 @@
 
 Upon publication, I post data sets and scripts that facilitate reproducible analyses. Please contact Jared to receive formal permission to use these data sets for educational or research purposes (Email: jared.j.beck@gmail.com). 
 
+#### Local herb distributions at McGilvra State Natural Area
+
+See article[https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1593] published in American Journal of Botany, data sets below:
+
+Metadata
+Herb distribution data
+Soil depth data
+Tree distribution data
+
 #### Variation in plant-soil feedbacks among temperate forest herbs
 
 This research project is currently in review, please check back later or contact Jared with inquiries.
 
-#### Local herb distributions at McGilvra State Natural Area
-
-This research project is currently in review, please check back later or contact Jared with inquiries.
 
 #### *Hylodesmum* mapping and physiological data
 
