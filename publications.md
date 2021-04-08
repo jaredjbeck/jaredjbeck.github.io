@@ -2,10 +2,10 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=IC3onsQAAAAJ&hl=en&oi=ao)  \|  [ORCID](https://orcid.org/0000-0001-9515-5440)
 
-* **Beck, J.**, D. Li, S. Johnson, D. Rogers, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Using functional traits and phylogenetic relationships to assess scale-dependent community assembly in temperate forests. *In review at Ecology.*
-* **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. A coexistence conundrum? Integrating demographic, physiological, and distributional data to understand patterns of co-occurrence among close relatives. *In review at American Naturalist.*
+* **Beck, J.**, D. Li, S. Johnson, D. Rogers, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Using functional traits and phylogenetic relationships to assess scale-dependent community assembly in temperate forests. *In review.*
+* **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. A coexistence conundrum? Integrating demographic, physiological, and distributional data to understand patterns of co-occurrence among close relatives. *In review.*
 * Mckone, M., E. Williams, and **J. Beck**. Evidence for community assembly processes from long-term
-observations of biodiversity in a grassland chronosequence. *In review at Journal of Vegetation Science.*
+observations of biodiversity in a grassland chronosequence. *In review.*
 * **Beck, J.** *In press.* Variation in plant-soil interactions among temperate forest herbs. Plant Ecology.
 * **Beck, J.** and T. Givnish. 2021. Fine-scale environmental heterogeneity and spatial niche partitioning among spring-flowering forest herbs. American Journal of Botany 108:63-73.
 * Wagenius, S., **J. Beck**, and G. Kiefer. 2020. Fire synchronizes flowering and boosts reproduction in a declining prairie species. Proceedings of the National Academy of Sciences 117:3000-3005.
