@@ -4,7 +4,7 @@ Upon publication, I post data sets and scripts that facilitate reproducible anal
 
 #### Local herb distributions at McGilvra State Natural Area
 
-See (article)[https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1593] published in American Journal of Botany, data sets below:
+See [article](https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1593) published in American Journal of Botany, data sets below:
 
 Metadata
 Herb distribution data
