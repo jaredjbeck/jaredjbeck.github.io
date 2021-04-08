@@ -1,0 +1,35 @@
+#### METADATA FOR 2019 MCGIVLRA WOODS HERBACEOUS PLANT STUDY ####
+##
+##
+## updated 11/5/2019 JB
+##
+## Overview: within a 50 x 50 meter plot at McGilvra Woods State Natural Area (Sauk County, WI)
+##
+#### >> mcgilvra_woods_herb_mapping_5nov2019jb.csv << ####
+##
+## site:
+## species: Species of the focal plant
+## x: X-coordinate of focal plant (in meters)
+## y: Y-coordinate of focal plant (in meters)
+## distance.to.tree.m: Distance to the nearest tree (in meters)
+## soil.depth.cm: Soil depth at base of focal plant (estimated to nearest cm using 2.6 mm wire probe, maximum 50 cm)
+##
+##
+#### >> mcgilvra_woods_reference_soil_depth_5nov2019jb.csv << ####
+##
+## site: 
+## x: X-coordinate of reference point (in meters)
+## y: Y-coordinate of reference point (in meters)
+## soil.depth.cm: Soil depth at reference x-y coordinate (estimated to nearest cm using 2.6 mm wire probe, maximum 50 cm)
+##
+##
+#### >> mcgilvra_woods_tree_data_5nov2019jb.csv << ####
+##
+## site: site at which trees were surveyed
+## year: year in which trees were mapped
+## id: tag number identifying focal tree
+## species: species of focal tree
+## basal.area.cm2: basal area of focal tree (square centimeters) at breast height (1.3 m)
+## x: X-coordinate of focal tree (in meters)
+## y: Y-coordinate of focal tree (in meters)
+## notes: notes associated with tree survey
