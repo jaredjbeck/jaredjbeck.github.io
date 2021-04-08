@@ -6,7 +6,7 @@ Upon publication, I post data sets and scripts that facilitate reproducible anal
 
 See [article](https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1593) published in American Journal of Botany, data sets below:
 
-[Metadata]()
+[Metadata](/content/datasets/mcgilvra_woods_herb_mapping_metadata.txt)
 
 [Herb distribution data]()
 
