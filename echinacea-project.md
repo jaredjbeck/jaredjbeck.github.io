@@ -12,7 +12,3 @@ Here is a [video](https://vimeo.com/341634035) describing our research as well a
 
 
 <img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/jbFire2021b.jpg"  align="right" width="200"> As a postdoctoral researcher, I am building on our previous work to investigate whether the positive effects of fire on plant reproduction promote population growth. We are experimentally burning prairie remnants and collecting demographic data to parameterize population models for *Echinacea angustifolia*. These models will help us understand how and under what circumstances prescribed fire can be used to promote plant population growth and persistence in fragmented prairies.
-
-#### Fire effects on reproduction in fragmented western red lily (*Lilium philadelphicum*) populations
-
-<img style="padding: 0 15px; float: left;" src="https://jaredjbeck.github.io/images/lily2021.jpg"  align="left" width="200">
