@@ -4,8 +4,8 @@
 
 * **Beck, J.**, D. Li, S. Johnson, D. Rogers, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Using functional traits and phylogenetic relationships to assess scale-dependent community assembly in temperate forests. *In review.*
 * **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. A coexistence conundrum? Integrating demographic, physiological, and distributional data to understand patterns of co-occurrence among close relatives. *In review.*
-* Mckone, M., E. Williams, and **J. Beck**. Evidence for community assembly processes from long-term
-observations of biodiversity in a grassland chronosequence. *In review.*
+* Mckone, M., E. Williams, and **J. Beck**. *In press.* Evidence for community assembly processes from long-term
+observations of biodiversity in a grassland chronosequence. Journal of Vegetation Science.
 * **Beck, J.** *In press.* Variation in plant-soil interactions among temperate forest herbs. Plant Ecology.
 * **Beck, J.** and T. Givnish. 2021. Fine-scale environmental heterogeneity and spatial niche partitioning among spring-flowering forest herbs. American Journal of Botany 108:63-73.
 * Wagenius, S., **J. Beck**, and G. Kiefer. 2020. Fire synchronizes flowering and boosts reproduction in a declining prairie species. Proceedings of the National Academy of Sciences 117:3000-3005.
