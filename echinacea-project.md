@@ -11,4 +11,10 @@ Here is a [video](https://vimeo.com/341634035) describing our research as well a
 #### How does fire influence plant population growth and persistence in remnant prairies?
 
 
-<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/jbFire2021b.jpg"  align="right" width="200"> As a postdoctoral researcher, I am building on our previous work to investigate whether the positive effects of fire on plant reproduction promote population growth. We are experimentally burning prairie remnants and collecting demographic data to parameterize population models for *Echinacea angustifolia*. These models will help us understand how and under what circumstances prescribed fire can be used to promote plant population growth and persistence in fragmented prairies.
+<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/jbFire2021b.jpg"  align="right" width="200"> As a postdoctoral researcher, I am building on our previous work to investigate whether the positive effects of fire on plant reproduction promote population growth. We are experimentally burning prairie remnants in western Minnesota and collecting demographic data to parameterize population models for *Echinacea angustifolia*. These models will help us understand how and under what circumstances prescribed fire can be used to promote plant population growth and persistence in fragmented prairies.
+
+#### How does fire influence plant reproductive outcomes in fragmented prairies?
+
+In addition to the detailed demographic data described above, we are quantifying fire effects on the reproduction of six prairie prairie species: Narrow-leaved purple coneflower (*Echinacea angustifolia*), Rough blazing star (*Liatris aspera*), Big bluestem (*Andropogon gerardii*), Porcupine grass (*Hesperostipa spartea*), Green milkweed (*Asclepias viridiflora*), and Western red lily (*Lilium philadelphicum*).
+
+
