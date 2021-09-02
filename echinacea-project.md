@@ -15,8 +15,8 @@ Here is a [video](https://vimeo.com/341634035) describing our research as well a
 
 #### How does fire influence plant reproductive outcomes in fragmented prairies?
 
-In addition to the detailed demographic data described above, we are quantifying fire effects on the reproduction of six prairie prairie species: Narrow-leaved purple coneflower (*Echinacea angustifolia*), Rough blazing star (*Liatris aspera*), Big bluestem (*Andropogon gerardii*), Porcupine grass (*Hesperostipa spartea*), Green milkweed (*Asclepias viridiflora*), and Western red lily (*Lilium philadelphicum*).
-
 <img style="padding: 0 5 px; float: left;" src="https://jaredjbeck.github.io/content/photos/focalSpp.png"  align="left" width="1200">
+
+In addition to the detailed demographic data described above, we are quantifying fire effects on the reproduction of six prairie prairie species: Narrow-leaved purple coneflower (*Echinacea angustifolia*), Rough blazing star (*Liatris aspera*), Big bluestem (*Andropogon gerardii*), Porcupine grass (*Hesperostipa spartea*), Green milkweed (*Asclepias viridiflora*), and Western red lily (*Lilium philadelphicum*).
 
 
