@@ -17,6 +17,6 @@ Here is a [video](https://vimeo.com/341634035) describing our research as well a
 
 In addition to the detailed demographic data described above, we are quantifying fire effects on the reproduction of six prairie prairie species: Narrow-leaved purple coneflower (*Echinacea angustifolia*), Rough blazing star (*Liatris aspera*), Big bluestem (*Andropogon gerardii*), Porcupine grass (*Hesperostipa spartea*), Green milkweed (*Asclepias viridiflora*), and Western red lily (*Lilium philadelphicum*).
 
-<img style="padding: 0 15px; float: left;" src="https://jaredjbeck.github.io/content/photos/focalSpp.png"  align="left" width="500">
+<img style="padding: 0 15px; float: left;" src="https://jaredjbeck.github.io/content/photos/focalSpp.png"  align="left" width="1200">
 
 
