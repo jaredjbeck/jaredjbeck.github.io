@@ -18,10 +18,6 @@ This research project is currently in review, please check back later or contact
 
 [R script]()~ [Metadata]() ~ [Herb biomass data]()
 
-#### *Hylodesmum* demographic and physiological data
-
-This research project is currently in review, please check back later or contact Jared with inquiries.
-
 #### Local plant distributions and diversity in a quartzite glade data
 
 This research project is currently in review, please check back later or contact Jared with inquiries.
