@@ -12,8 +12,13 @@ See [article](https://bsapubs.onlinelibrary.wiley.com/doi/abs/10.1002/ajb2.1593)
 
 This research project is currently in review, please check back later or contact Jared with inquiries.
 
+[R script]()~ [Metadata]() ~ [Herb biomass data]()
 
-#### *Hylodesmum* mapping and physiological data
+#### *Hylodesmum* demographic and physiological data
+
+This research project is currently in review, please check back later or contact Jared with inquiries.
+
+#### Local plant distributions and diversity in a quartzite glade data
 
 This research project is currently in review, please check back later or contact Jared with inquiries.
 
