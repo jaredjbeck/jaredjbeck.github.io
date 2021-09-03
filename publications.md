@@ -15,5 +15,5 @@ observations of biodiversity in a grassland chronosequence. Journal of Vegetatio
 
 *Manuscripts in preparation*
 
-* A. Paulson, **J. Beck**, J. Richards, R. Toczydlowski, D. Li, S. Johnson, D. Rogers, G. Sonnier, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Dimensions of biodiversity change in temperate forests. *In preparation.*
+* Paulson, A., **J. Beck**, J. Richards, R. Toczydlowski, D. Li, S. Johnson, D. Rogers, G. Sonnier, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Dimensions of biodiversity change in temperate forests. *In preparation.*
 * **Beck, J.** and J. Richards. Environmental determinants of plant distributions and diversity in a quartzite glade. *In preparation.*
