@@ -17,3 +17,4 @@ observations of biodiversity in a grassland chronosequence. Journal of Vegetatio
 
 * Paulson, A., **J. Beck**, J. Richards, R. Toczydlowski, D. Li, S. Johnson, D. Rogers, G. Sonnier, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Dimensions of biodiversity change in temperate forests. *In preparation.*
 * **Beck, J.** and J. Richards. Environmental determinants of plant distributions and diversity in a quartzite glade. *In preparation.*
+* ** Beck, J.**, A. Wanaanen, and S. Wagenius. Defining effective population density: Assessing spatial, temporal, and genetic dimensions of positive density-dependence. *In preparation.*
