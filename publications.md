@@ -2,7 +2,7 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=IC3onsQAAAAJ&hl=en&oi=ao)  \|  [ORCID](https://orcid.org/0000-0001-9515-5440)
 
-* **Beck, J.**, D. Li, S. Johnson, D. Rogers, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Sorted or shuffled? Functional traits mediate broad-scale species-environment distributions in temperate forests while fine-scale species’ associations remain unpredictable. *In review.*
+* **Beck, J.**, D. Li, S. Johnson, D. Rogers, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Functional traits mediate broad-scale species-environment distributions in temperate forests while fine-scale species’ associations remain unpredictable. *In review.*
 * **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. A coexistence conundrum? Integrating physiological, distributional, and demographic data to understand where and how congeners co-occur. *In review.*
 * Mckone, M., E. Williams, and **J. Beck**. 2021. Evidence for community assembly processes from long-term
 observations of biodiversity in a grassland chronosequence. Journal of Vegetation Science.
