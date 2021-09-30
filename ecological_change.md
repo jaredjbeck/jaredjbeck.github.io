@@ -8,4 +8,4 @@ Using detailed historic data describing forest plant communities and data from r
 
 ### 63-year forest dynamics in Noe Woods
 
-In 2019, my team and I resurveyed trees within Noe Woods (a parcel of oak woodland in the University of Wisconsin-Madison Arboretum). The long-term monitoring plot was first surveyed in 1956 by researchers at UW-Madison. Using a data set spanning 63-years, we documented changes in the structure and composition of Noe Woods as well as factors influencing the growth, recruitment, and mortality of individual trees.
+In 2019, my team and I resurveyed trees within Noe Woods (a parcel of oak woodland in the [University of Wisconsin-Madison Arboretum](https://arboretum.wisc.edu/)). The long-term monitoring plot was first surveyed in 1956 by researchers at UW-Madison. Using a data set spanning 63-years, we documented changes in the structure and composition of Noe Woods as well as factors influencing the growth, recruitment, and mortality of individual trees.
