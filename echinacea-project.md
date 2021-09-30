@@ -13,7 +13,7 @@ Here is a [video](https://vimeo.com/341634035) describing our research as well a
 #### How does fire influence plant population growth and persistence in remnant prairies?
 
 
-<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/P1190649.JPG"  align="right" width="400"> As a postdoctoral researcher, I am building on our previous work to investigate whether the positive effects of fire on plant reproduction promote population growth. We are experimentally burning prairie remnants in western Minnesota and collecting demographic data to parameterize population models for *Echinacea angustifolia*. These models will help us understand how and under what circumstances prescribed fire can be used to promote plant population growth and persistence in fragmented prairies.
+<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/P1190649.JPG"  align="right" width="300"> As a postdoctoral researcher, I am building on our previous work to investigate whether the positive effects of fire on plant reproduction promote population growth. We are experimentally burning prairie remnants in western Minnesota and collecting demographic data to parameterize population models for *Echinacea angustifolia*. These models will help us understand how and under what circumstances prescribed fire can be used to promote plant population growth and persistence in fragmented prairies.
 
 #### How does fire influence plant reproductive outcomes in fragmented prairies?
 
