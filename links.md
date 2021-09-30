@@ -27,7 +27,7 @@
 
 [Echinacea Project](http://echinaceaproject.org/)
 
-[Shaw Research Group at the University of Minnesota](https://cbs.umn.edu/contacts/ruth-g-shaw)
+[Shaw Research Group (University of Minnesota)](https://ruthgshaw.wordpress.com/)
 
 ## Resources
 
