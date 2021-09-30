@@ -1,6 +1,6 @@
 ## Fire effects on plant reproduction and population dynamics in remnant prairies
 
-<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/Bshx5HQCUAAIzLL.jpg"  align="right" width="200"> I am currently a Postdoctoral Research Scientist at the Chicago Botanic Garden studying how fire influences plant reproduction and population dynamics in remnant prairies. For this research, I am collaborating Dr. Stuart Wagenius and the [Echinacea Project](http://echinaceaproject.org/) to build on our previous work illustrating how fire synchronizes flowering and promotes successful reproduction in the pale-leaved purple coneflower (*Echinacea angustifolia*). 
+<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/jbFire2021b.jpg"  align="right" width="200"> I am currently a Postdoctoral Research Scientist at the Chicago Botanic Garden studying how fire influences plant reproduction and population dynamics in remnant prairies. For this research, I am collaborating Dr. Stuart Wagenius and the [Echinacea Project](http://echinaceaproject.org/) to build on our previous work illustrating how fire synchronizes flowering and promotes successful reproduction in the pale-leaved purple coneflower (*Echinacea angustifolia*). 
 
 Here is a [video](https://www.youtube.com/watch?v=oeLBeCKDbjo) describing this research project made by Alex, a middle school teacher and RET with the Echinacea Project.
 
@@ -13,7 +13,7 @@ Here is a [video](https://vimeo.com/341634035) describing our research as well a
 #### How does fire influence plant population growth and persistence in remnant prairies?
 
 
-<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/jbFire2021b.jpg"  align="right" width="200"> As a postdoctoral researcher, I am building on our previous work to investigate whether the positive effects of fire on plant reproduction promote population growth. We are experimentally burning prairie remnants in western Minnesota and collecting demographic data to parameterize population models for *Echinacea angustifolia*. These models will help us understand how and under what circumstances prescribed fire can be used to promote plant population growth and persistence in fragmented prairies.
+<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/P1190649.jpg"  align="right" width="400"> As a postdoctoral researcher, I am building on our previous work to investigate whether the positive effects of fire on plant reproduction promote population growth. We are experimentally burning prairie remnants in western Minnesota and collecting demographic data to parameterize population models for *Echinacea angustifolia*. These models will help us understand how and under what circumstances prescribed fire can be used to promote plant population growth and persistence in fragmented prairies.
 
 #### How does fire influence plant reproductive outcomes in fragmented prairies?
 
