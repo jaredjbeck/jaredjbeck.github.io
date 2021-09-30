@@ -18,10 +18,16 @@
 
 [Carleton College Cowling Arboretum](https://apps.carleton.edu/campus/arb/)
 
+[University of Wisconsin-Madison Arboretum](https://arboretum.wisc.edu)
 
-## Research groups
+[Chicago Botanic Garden](chicagobotanic.org)
+
+
+## Affiliated research groups
 
 [Echinacea Project](http://echinaceaproject.org/)
+
+[Shaw Research Group at the University of Minnesota](https://cbs.umn.edu/contacts/ruth-g-shaw)
 
 ## Resources
 
