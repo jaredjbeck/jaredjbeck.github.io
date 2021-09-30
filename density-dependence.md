@@ -1,4 +1,4 @@
-## Density-dependent population growth and fitness
+## Density-dependence in plant populations
 
 #### Defining population density and its implications for mate-finding Allee effects
 <img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/Bshx5HQCUAAIzLL.jpg"  align="right" width="200"> 
