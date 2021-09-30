@@ -20,7 +20,7 @@
 
 [University of Wisconsin-Madison Arboretum](https://arboretum.wisc.edu)
 
-[Chicago Botanic Garden](chicagobotanic.org)
+[Chicago Botanic Garden](https://www.chicagobotanic.org/)
 
 
 ## Affiliated research groups
