@@ -2,9 +2,7 @@
 
 ### Dimensions of biodiversity change in temperate forests
 
-<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/wi_pel_map.png" width="250" align="right">
-
-Using detailed historic data describing forest plant communities and data from resurveys at the same sites ~50 years later, we explored how plant diversity has changed in 290 forest stands across the state of Wisconsin. 
+<img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/wi_pel_map.png" width="250" align="right"> Using detailed historic data describing forest plant communities and data from resurveys at the same sites ~50 years later, we explored how plant diversity has changed in 290 forest stands across the state of Wisconsin. 
 
 ### 63-year forest dynamics in Noe Woods
 
