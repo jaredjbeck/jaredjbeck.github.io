@@ -1,6 +1,6 @@
 ## Research
 
-<img style="padding: 15 15px; float: right;" src="https://jaredjbeck.github.io/images/P1030137.JPG" align="right" width="200"> My research interests include a variety of topics related to population biology, community ecology, and conservation biology. For my PhD, I studied plant distributions and diversity in temperate forests. My research currently investigates how fire influences plant reproduction and population dynamics in fragmented prairies.
+<img style="padding: 15 25px; float: right;" src="https://jaredjbeck.github.io/images/P1030137.JPG" align="right" width="200"> My research interests include a variety of topics related to population biology, community ecology, and conservation biology. For my PhD, I studied plant distributions and diversity in temperate forests. My research currently investigates how fire influences plant reproduction and population dynamics in fragmented prairies.
 
 Follow the links below to learn more about about my [postdoctoral research](/echinacea-project.md), my [PhD research](/dissertation_research.md) and other projects I have worked on:
 * [Fire, plant reproduction, and population dynamics in fragmented prairies](echinacea-project.md)
