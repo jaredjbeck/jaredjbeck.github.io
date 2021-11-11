@@ -4,6 +4,7 @@
 
 * **Beck, J.**, D. Li, S. Johnson, D. Rogers, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Functional traits mediate broad-scale species-environment distributions among temperate forest herbs while fine-scale species’ associations remain unpredictable *In review.*
 * **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. A coexistence conundrum? Integrating physiological, distributional, and demographic data to understand where and how congeners co-occur. *In review.*
+* **Beck, J.** and J. Richards. Trait-mediated ecological sorting and mass effects jointly influence local plant distributions and diversity within a quartzite glade. *In review.*
 * Mckone, M., E. Williams, and **J. Beck**. 2021. Evidence for community assembly processes from long-term
 observations of biodiversity in a grassland chronosequence. Journal of Vegetation Science.
 * **Beck, J.** 2021. Variation in plant-soil interactions among temperate forest herbs. Plant Ecology.
@@ -16,5 +17,5 @@ observations of biodiversity in a grassland chronosequence. Journal of Vegetatio
 *Manuscripts in preparation*
 
 * Paulson, A., **J. Beck**, J. Richards, R. Toczydlowski, D. Li, S. Johnson, D. Rogers, G. Sonnier, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Dimensions of biodiversity change in temperate forests. *In preparation.*
-* **Beck, J.** and J. Richards. Trait-mediated ecological sorting and mass effects jointly influence local plant distributions and diversity within a quartzite glade. *In preparation.*
-* **Beck, J.**, A. Waananen, and S. Wagenius. Defining effective population density: Assessing spatial, temporal, and genetic dimensions of positive density-dependence. *In preparation.*
+* **Beck, J.**, A. Waananen, and S. Wagenius. Spatial, temporal, and genetic constraints limit mating potential and reduce effective population size. *In preparation.*
+* **Beck, J.**, M. McKone, and S. Wagenius. Masting and evolutionary ecology of fire-stimulated flowering. *In preparation.*
