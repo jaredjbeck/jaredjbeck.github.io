@@ -4,7 +4,7 @@
 
 Follow the links below to learn more about about my [postdoctoral research](/echinacea-project.md), my [PhD research](/dissertation_research.md) and other projects I have worked on:
 * [Fire and plant reproduction in tallgrass prairie](echinacea-project.md)
-* Density-dependent drivers of plant fitness
+* Causes and consequences of density-dependence in plant populations
 * [Plant coexistence and diversity in temperate forests](/dissertation_research.md)
 * [Plant ecology in the Baraboo Hills](/baraboo_hills.md)
 * [Patterns and drivers of ecological change](/ecological_change.md)
