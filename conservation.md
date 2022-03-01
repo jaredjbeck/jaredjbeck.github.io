@@ -3,10 +3,7 @@
 
 <img src="https://jaredjbeck.github.io/images/IMG_6664.jpg" width="800" align="center"> 
 
-## Propagation and restoration of declining plant species
-
-Collecting seed from Green Milkweed (*Asclepias viridiflora*). We are propagating and planting 396 seedlings.
-
+## Propagation and restoration of locally declining plant species
 
 - Green Milkweed (*Asclepias viridiflora*)
 - Oval-leafed Milkweed (*Asclepias ovalifolia*)
