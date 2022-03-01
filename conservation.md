@@ -8,10 +8,10 @@
 Collecting seed from Green Milkweed (*Asclepias viridiflora*). We are propagating and planting 396 seedlings.
 
 
-Green Milkweed (*Asclepias viridiflora*)
-Oval-leafed Milkweed (*Asclepias ovalifolia*)
-Wooly Milkweed (*Asclepias lanuginosa*)
-Ground Plum (*Astragalus crassicarpus*)
-Prairie Milkvetch (*Astragalus adsurgens*)
-Prairie Violet (*Viola pedatifida*)
-Prairie Lily (*Lilium philadelphicum*)
+- Green Milkweed (*Asclepias viridiflora*)
+- Oval-leafed Milkweed (*Asclepias ovalifolia*)
+- Wooly Milkweed (*Asclepias lanuginosa*)
+- Ground Plum (*Astragalus crassicarpus*)
+- Prairie Milkvetch (*Astragalus adsurgens*)
+- Prairie Violet (*Viola pedatifida*)
+- Prairie Lily (*Lilium philadelphicum*)
