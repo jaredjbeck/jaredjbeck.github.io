@@ -2,9 +2,10 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=IC3onsQAAAAJ&hl=en&oi=ao)  \|  [ORCID](https://orcid.org/0000-0001-9515-5440)
 
+* Richardson, L., **J. Beck**, D. Eck, R. Shaw, and S. Wagenius. Fire effects on plant reproductive fitness vary among individuals reflecting pollination-dependent mechanisms. *In review.*
 * **Beck, J.**, D. Li, S. Johnson, D. Rogers, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Functional traits mediate broad-scale species-environment distributions among temperate forest herbs while fine-scale species’ associations remain unpredictable *In review.*
 * **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. Functional differences predict the ecologically nested distribution of _Hylodesmum_ congeners. *In review.*
-* **Beck, J.** and J. Richards. Trait-mediated ecological sorting and mass effects jointly influence local plant distributions and diversity within a quartzite glade. *In review.*
+* **Beck, J.** and J. Richards. Functional traits influence local plant distributions and diversity within a heterogeneous bedrock glade. *In review.*
 * Mckone, M., E. Williams, and **J. Beck**. 2021. Evidence for community assembly processes from long-term
 observations of biodiversity in a grassland chronosequence. Journal of Vegetation Science 32:e13065.
 * **Beck, J.** 2021. Variation in plant-soil interactions among temperate forest herbs. Plant Ecology 222:1225-1238.
@@ -18,3 +19,4 @@ observations of biodiversity in a grassland chronosequence. Journal of Vegetatio
 
 * Paulson, A., **J. Beck**, J. Richards, R. Toczydlowski, D. Li, S. Johnson, D. Rogers, G. Sonnier, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Dimensions of biodiversity change in temperate forests. *In preparation.*
 * **Beck, J.**, A. Waananen, and S. Wagenius. Spatial, temporal, and genetic constraints limit mating opportunities and reduce effective population size. *In preparation.*
+* **Beck, J.**, M. McKone, and S. Wagenius. Masting, fire-stimulated flowering, and the evolutionary ecology of synchronized reproduction. *In preparation.*
