@@ -2,7 +2,7 @@
 
 <img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/jbFire2021b.jpg"  align="right" width="200"> I am currently a Postdoctoral Research Scientist at the Chicago Botanic Garden studying how fire influences plant reproduction and population dynamics in remnant prairies. For this research, I am collaborating Dr. Stuart Wagenius and the [Echinacea Project](http://echinaceaproject.org/) to build on our previous work illustrating how fire synchronizes flowering and promotes successful reproduction in the pale-leaved purple coneflower (*Echinacea angustifolia*). 
 
-Here is a [video](https://www.youtube.com/watch?v=oeLBeCKDbjo) describing this research project made by Alex, a middle school teacher and RET with the Echinacea Project.
+Here is a [video](https://www.youtube.com/watch?v=oeLBeCKDbjo) describing this research project made by Alex W., a middle school teacher and RET with the Echinacea Project.
 
 #### Fire promotes successful reproduction in *Echinacea angusitifolia*, a widespread but declining plant species
 
@@ -19,6 +19,6 @@ Here is a [video](https://vimeo.com/341634035) describing our research as well a
 
 <img style="padding: 0 5 px; float: left;" src="https://jaredjbeck.github.io/images/focalSpp.png"  align="left" width="1200">
 
-In addition to the detailed demographic data described above, we are quantifying fire effects on the reproduction of six prairie prairie species: Narrow-leaved purple coneflower (*Echinacea angustifolia*), Rough blazing star (*Liatris aspera*), Big bluestem (*Andropogon gerardii*), Porcupine grass (*Hesperostipa spartea*), Green milkweed (*Asclepias viridiflora*), and Western red lily (*Lilium philadelphicum*).
+In addition to the detailed demographic data described above, we are quantifying the density-dependent effects on reproduction in five prairie prairie species: Narrow-leaved purple coneflower (*Echinacea angustifolia*), Rough blazing star (*Liatris aspera*), Big bluestem (*Andropogon gerardii*), Green milkweed (*Asclepias viridiflora*), and Western red lily (*Lilium philadelphicum*).
 
 
