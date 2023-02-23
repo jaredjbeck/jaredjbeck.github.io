@@ -21,4 +21,5 @@ observations of biodiversity in a grassland chronosequence. Journal of Vegetatio
 * Paulson, A., **J. Beck**, J. Richards, R. Toczydlowski, D. Li, S. Johnson, D. Rogers, G. Sonnier, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Dimensions of biodiversity change in temperate forests. *In preparation.*
 * **Beck, J.**, A. Waananen, and S. Wagenius. Reproductive benefits of synchronized post-fire flowering vary among populations reflecting density-dependent effects of fire on spatiotemporal mating opportunities. *In preparation.*
 * Waananen, A., **J. Beck**, and S. Wagenius. Scale-dependent effects of spatial isolation and phenological asynchrony on plant reproductive fitness. *In preparation.*
+* Richardson, L., **J. Beck**, and S. Wagenius. Individual-level differences in reproductive fitness between burned and unburned years reflects spatial and temporal mating opportunities.  *In preparation.*
 
