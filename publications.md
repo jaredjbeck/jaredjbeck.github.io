@@ -3,7 +3,7 @@
 [Google Scholar](https://scholar.google.com/citations?user=IC3onsQAAAAJ&hl=en&oi=ao)  \|  [ORCID](https://orcid.org/0000-0001-9515-5440)
 
 * **Beck, J.**, M. McKone, and S. Wagenius. Masting, fire-stimulated flowering, and the evolutionary ecology of synchronized reproduction. *In review.*
-* **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. Functional and demographic differences predict the ecologically nested distribution of _Hylodesmum_ congeners. *In review.*
+* **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. Scaling from individuals to communities: Functional and demographic differences predict the ecologically nested distribution of _Hylodesmum_ congeners. *In review.*
 * **Beck, J.** and J. Richards. Traits mediate local species-environment distributions and spatial patterns of diversity within a heterogeneous bedrock glade. *In review.*
 * Richardson, L., **J. Beck**, D. Eck, R. Shaw, and S. Wagenius. *In press.* Fire effects on plant reproductive fitness vary among individuals reflecting pollination-dependent mechanisms. American Journal of Botany.
 * **Beck, J.**, D. Li, S. Johnson, D. Rogers, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. 2022. Functional traits mediate broad-scale species-environment distributions among temperate forest herbs while fine-scale species’ associations remain unpredictable. American Journal of Botany 109:1991-2005.
