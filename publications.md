@@ -5,7 +5,7 @@
 * **Beck, J.**, A. Waananen, and S. Wagenius. Habitat fragmentation decouples fire-stimulated flowering from plant reproductive fitness. *In review.*
 * **Beck, J.**, M. McKone, and S. Wagenius. Masting, fire-stimulated flowering, and the evolutionary ecology of synchronized reproduction. *In review.*
 * **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. Scaling from individuals to communities: Functional and demographic differences predict the ecologically nested distribution of _Hylodesmum_ congeners. *In review.*
-* **Beck, J.** and J. Richards. Traits mediate local species-environment distributions and spatial patterns of diversity within a heterogeneous bedrock glade. *In review.*
+* **Beck, J.** and J. Richards. *In press.* Traits mediate local species-environment distributions and spatial patterns of diversity within a heterogeneous bedrock glade. Plant Ecology.
 * Richardson, L., **J. Beck**, D. Eck, R. Shaw, and S. Wagenius. 2023. Fire effects on plant reproductive fitness vary among individuals reflecting pollination-dependent mechanisms. American Journal of Botany.
 * **Beck, J.**, D. Li, S. Johnson, D. Rogers, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. 2022. Functional traits mediate broad-scale species-environment distributions among temperate forest herbs while fine-scale species’ associations remain unpredictable. American Journal of Botany 109:1991-2005.
 * Mckone, M., E. Williams, and **J. Beck**. 2021. Evidence for community assembly processes from long-term
