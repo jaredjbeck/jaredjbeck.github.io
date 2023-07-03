@@ -23,4 +23,6 @@ observations of biodiversity in a grassland chronosequence. Journal of Vegetatio
 * Waananen, A., **J. Beck**, and S. Wagenius. Scale-dependent effects of spatial isolation and phenological asynchrony on plant reproductive fitness. *In preparation.*
 * Richardson, L., **J. Beck**, and S. Wagenius. Individual-level differences in reproductive fitness between burned and unburned years reflect spatial and temporal mating opportunities.  *In preparation.*
 * **Beck, J.** and S. Wagenius. Feedbacks between distance-dependent pollen limitation and deer herbivory drive widespread reproductive failure in *Lilium philadelphicum*. *In preparation.*
+* **Beck, J.** and S. Wagenius. Fire mediates the opposing effects of positive distance-dependent pollination and negative distance-dependent seed predation on plant reproductive fitness. *In preparation.*
+* Paulson, L., A. Carroll, A. Waananen, **J. Beck**, and S. Wagenius. Effects of liquid smoke on flowering in a widespread prairie plant. *In preparation.*
 
