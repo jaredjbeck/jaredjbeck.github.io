@@ -22,7 +22,7 @@ observations of biodiversity in a grassland chronosequence. Journal of Vegetatio
 *Manuscripts in preparation*
 
 * Paulson, A., **J. Beck**, J. Richards, R. Toczydlowski, D. Li, S. Johnson, D. Rogers, G. Sonnier, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Taxonomic, function, and phyologenetic diversity metrics provide complementary insights into the multiple dimensions of biodiversity change. *In preparation.*
-* Waananen, A., **J. Beck**, and S. Wagenius. Scale-dependent effects of spatial isolation and phenological asynchrony on plant reproductive fitness. *In preparation.*
+* Waananen, A., **J. Beck**, R. Shaw, and S. Wagenius. Scale-dependent effects of spatial isolation and phenological asynchrony on plant reproductive fitness. *In preparation.*
 * Richardson, L., **J. Beck**, and S. Wagenius. Individual-level differences in reproductive fitness between burned and unburned years reflect spatial and temporal mating opportunities.  *In preparation.*
 * **Beck, J.**, G. Kiefer. R. Johnson, and S. Wagenius. Divergent long-term effects of haying and prescribed fire on the composition and diversity of wet prairie plant communities *In preparation.*
 * **Beck, J.** and S. Wagenius. Fire and interannual variation in flowering mediate opposing effects of distance-dependent pollination and seed predation on plant reproductive fitness. *In preparation.*
