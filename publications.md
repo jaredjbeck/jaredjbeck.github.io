@@ -5,7 +5,7 @@
 
 * **Beck, J.** and S. Wagenius. Herbivory exacerbates pollen limitation by isolating unconsumed plants from prospective mates. *In review.*
 * **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. Scaling from individuals to communities: Functional and demographic differences predict the ecologically nested distribution of congeneric forest herbs. *In review.*
-* **Beck, J.**, M. McKone, and S. Wagenius. *In press.* Masting, fire-stimulated flowering, and the evolutionary ecology of synchronized reproduction. Ecology.
+* **Beck, J.**, M. McKone, and S. Wagenius. 2024. Masting, fire-stimulated flowering, and the evolutionary ecology of synchronized reproduction. Ecology.
 * **Beck, J.**, A. Waananen, and S. Wagenius. 2023. Habitat fragmentation decouples fire-stimulated flowering from plant reproductive fitness. Proceedings of the National Academy of Sciences 120:e2306967120.
 * **Beck, J.** and J. Richards. 2023. Functional traits influence local plant distributions and spatial patterns of diversity within a heterogeneous bedrock glade. Plant Ecology 224:729–740.
 * Richardson, L., **J. Beck**, D. Eck, R. Shaw, and S. Wagenius. 2023. Fire effects on plant reproductive fitness vary among individuals reflecting pollination-dependent mechanisms. American Journal of Botany 110:e16160.
@@ -27,4 +27,5 @@ observations of biodiversity in a grassland chronosequence. Journal of Vegetatio
 * **Beck, J.**, G. Kiefer. R. Johnson, and S. Wagenius. Divergent long-term effects of haying and prescribed fire on the composition and diversity of wet prairie plant communities *In preparation.*
 * **Beck, J.** and S. Wagenius. Fire and interannual variation in flowering mediate opposing effects of distance-dependent pollination and seed predation on plant reproductive fitness. *In preparation.*
 * Paulson, L., A. Carroll, A. Waananen, **J. Beck**, and S. Wagenius. Effects of liquid smoke on flowering in a widespread prairie plant. *In preparation.*
+* **Beck, J.**, A. Peschel, S. Wagenius, and R. Shaw. Scientifically supported strategies for sourcing seed in an era of climate change. * In preparation.*
 
