@@ -27,5 +27,5 @@ observations of biodiversity in a grassland chronosequence. Journal of Vegetatio
 * **Beck, J.**, G. Kiefer. R. Johnson, and S. Wagenius. Divergent long-term effects of haying and prescribed fire on the composition and diversity of wet prairie plant communities *In preparation.*
 * **Beck, J.** and S. Wagenius. Fire and interannual variation in flowering mediate opposing effects of distance-dependent pollination and seed predation on plant reproductive fitness. *In preparation.*
 * Paulson, L., A. Carroll, A. Waananen, **J. Beck**, and S. Wagenius. Effects of liquid smoke on flowering in a widespread prairie plant. *In preparation.*
-* **Beck, J.**, A. Peschel, S. Wagenius, and R. Shaw. Scientifically supported strategies for sourcing seed in an era of climate change. * In preparation.*
+* **Beck, J.**, A. Peschel, S. Wagenius, and R. Shaw. Scientifically supported strategies for sourcing seed in an era of climate change. *In preparation.*
 
