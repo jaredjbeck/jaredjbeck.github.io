@@ -29,4 +29,5 @@ observations of biodiversity in a grassland chronosequence. Journal of Vegetatio
 * Richardson, L., **J. Beck**, and S. Wagenius. Individual-level differences in reproductive fitness between burned and unburned years reflect spatial and temporal mating opportunities.  *In preparation.*
 * Paulson, L., A. Carroll, A. Waananen, **J. Beck**, and S. Wagenius. Effects of liquid smoke on flowering in a widespread prairie plant. *In preparation.*
 * **Beck, J.** and S. Wagenius. Biotic and abiotic factors influencing seedling responses to fire in tallgrass prairie. *In preparation.*
+* **Beck, J.**, S. Nordstrom, L. Richardson, A. Waananen, R. Shaw, and S. Wagenius. Limited mating opportunities exacerbate extinction risks in fragmented plant populations. *In preparation.*
 
