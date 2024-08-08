@@ -2,7 +2,7 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=IC3onsQAAAAJ&hl=en&oi=ao)  \|  [ORCID](https://orcid.org/0000-0001-9515-5440)
 
-* **Beck, J.**, A. Peschel, S. Wagenius, and R. Shaw. Emerging evidence supports the use of local seed in the era of climate change. *In review.*
+* **Beck, J.**, A. Peschel, S. Wagenius, and R. Shaw. Emerging evidence supports local seed sourcing in the era of climate change. *In review.*
 * **Beck, J.**, G. Kiefer. R. Johnson, R. Dana, B. Winter, and S. Wagenius. Long-term effects of haying and prescribed fire on the composition and diversity of wet prairie plant communities. *In review.*
 * **Beck, J.** and S. Wagenius. Herbivory exacerbates pollen limitation by isolating unconsumed plants from prospective mates. *In review.*
 * **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. Scaling from individuals to communities: Functional and demographic differences predict the ecologically nested distribution of congeneric forest herbs. *In review.*
