@@ -4,7 +4,7 @@
 
 I am a Postdoctoral Research Scientist at the Chicago Botanic Garden. My research investigates how fire influences plant reproduction and population dynamics. I received my PhD from the University of Wisconsin-Madison where I studied the distribution, demography, and diversity of herbaceous plants in temperate forests. See [Jared's CV](/content/beckCv_1November2023.pdf).
 
-In my spare time, I enjoy birding, botanizing, and generally exploring the natural world. My fascination with lilies, ducks, and salamanders borders on obsession.
+In my spare time, I enjoy birding, botanizing, and generally exploring the natural world. My fascination with lilies, ducks, and mapping border on obsession.
 
 #### Education
 BA Biology, Carleton College (2010-2014)
