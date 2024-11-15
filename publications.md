@@ -2,7 +2,8 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=IC3onsQAAAAJ&hl=en&oi=ao)  \|  [ORCID](https://orcid.org/0000-0001-9515-5440)
 
-* **Beck, J.**, A. Peschel, S. Wagenius, and R. Shaw. Emerging evidence supports local seed sourcing in the era of climate change. *In review.*
+* **Beck, J.** and S. Wagenius. Seedling recruitment after fire: Disentangling the roles of microsite conditions and seed availability. *In review.* Preprint: https://www.biorxiv.org/content/10.1101/2024.11.12.623237v1
+* **Beck, J.**, A. Peschel, S. Wagenius, and R. Shaw. Evidence-based seed sourcing in the era of climate change. *In review.*
 * **Beck, J.**, G. Kiefer. R. Johnson, R. Dana, B. Winter, and S. Wagenius. Long-term effects of haying and prescribed fire on the composition and diversity of wet prairie plant communities. *In review.*
 * **Beck, J.** and S. Wagenius. Herbivory exacerbates pollen limitation by isolating unconsumed plants from prospective mates. *In review.*
 * **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. Scaling from individuals to communities: Functional and demographic differences predict the ecologically nested distribution of congeneric forest herbs. *In review.*
@@ -22,11 +23,11 @@ observations of biodiversity in a grassland chronosequence. Journal of Vegetatio
 
 *Manuscripts in preparation*
 
+* **Beck, J.**, S. Nordstrom, L. Richardson, A. Waananen, R. Shaw, and S. Wagenius. Limited mating opportunities exacerbate extinction risks in fragmented plant populations. *In preparation.*
 * **Beck, J.** and S. Wagenius. Fire, fragmentation, and interannual variation mediate the opposing effects of distance-dependent pollination and pre-dispersal seed predation on plant reproductive fitness. *In preparation.*
 * Paulson, A., **J. Beck**, J. Richards, R. Toczydlowski, D. Li, S. Johnson, D. Rogers, G. Sonnier, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Taxonomic, function, and phyologenetic diversity metrics provide complementary insights into the multiple dimensions of biodiversity change. *In preparation.*
 * Waananen, A., **J. Beck**, R. Shaw, and S. Wagenius. Scale-dependent effects of spatial isolation and phenological asynchrony on plant reproductive fitness. *In preparation.*
 * Richardson, L., **J. Beck**, and S. Wagenius. Individual-level differences in reproductive fitness between burned and unburned years reflect spatial and temporal mating opportunities.  *In preparation.*
 * Paulson, L., A. Carroll, A. Waananen, **J. Beck**, and S. Wagenius. Effects of liquid smoke on flowering in a widespread prairie plant. *In preparation.*
-* **Beck, J.** and S. Wagenius. Biotic and abiotic factors influencing seedling responses to fire in tallgrass prairie. *In preparation.*
-* **Beck, J.**, S. Nordstrom, L. Richardson, A. Waananen, R. Shaw, and S. Wagenius. Limited mating opportunities exacerbate extinction risks in fragmented plant populations. *In preparation.*
+
 
