@@ -3,11 +3,11 @@
 [Google Scholar](https://scholar.google.com/citations?user=IC3onsQAAAAJ&hl=en&oi=ao)  \|  [ORCID](https://orcid.org/0000-0001-9515-5440)
 
 * **Beck, J.** and S. Wagenius. Seedling recruitment after fire: Disentangling the roles of microsite conditions and seed availability. *In review.* [Preprint]( https://www.biorxiv.org/content/10.1101/2024.11.12.623237v1)
-* Maton, D., **J. Beck**, S. Wagenius, D. Maddox, and M. Ashley. Persistence in a fragmented habitat: Genetic diversity and pollination patterns in *Asclepias viridiflora*. *In review.* 
-* **Beck, J.**, A. Peschel, S. Wagenius, and R. Shaw. Evidence-based seed sourcing in the era of climate change. *In revision.*
-* **Beck, J.**, G. Kiefer. R. Johnson, R. Dana, B. Winter, and S. Wagenius. Long-term effects of haying and prescribed fire on the composition and diversity of wet prairie plant communities. *In revision.*
+* Maton, D., **J. Beck**, S. Wagenius, D. Maddox, and M. Ashley. Persistence in a fragmented habitat: Genetic diversity and pollination patterns in *Asclepias viridiflora*. *In revision.* 
+* **Beck, J.**, A. Peschel, S. Wagenius, and R. Shaw. Evidence-based seed sourcing in the era of climate change. *In review.*
+* **Beck, J.**, G. Kiefer. R. Johnson, R. Dana, B. Winter, and S. Wagenius. Long-term effects of haying and prescribed fire on the composition and diversity of wet prairie plant communities. *In review.*
 * **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. Scaling from individuals to communities: Functional and demographic differences predict the ecologically nested distribution of congeneric forest herbs. *In review.*
-* **Beck, J.** and S. Wagenius. *In press.* Herbivory exacerbates pollen limitation by isolating unconsumed plants from prospective mates. American Journal of Botany.
+* **Beck, J.** and S. Wagenius. 2025. Herbivory exacerbates pollen limitation by isolating unconsumed plants from prospective mates. American Journal of Botany.
 * **Beck, J.**, M. McKone, and S. Wagenius. 2024. Masting, fire-stimulated flowering, and the evolutionary ecology of synchronized reproduction. Ecology 105:e4261.
 * **Beck, J.**, A. Waananen, and S. Wagenius. 2023. Habitat fragmentation decouples fire-stimulated flowering from plant reproductive fitness. Proceedings of the National Academy of Sciences 120:e2306967120.
 * **Beck, J.** and J. Richards. 2023. Functional traits influence local plant distributions and spatial patterns of diversity within a heterogeneous bedrock glade. Plant Ecology 224:729–740.
