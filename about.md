@@ -2,7 +2,7 @@
 
 <img style="padding: 0 15px; float: right;" src="https://jaredjbeck.github.io/images/IMG_1145.png"  align="right" width="200">
 
-I am a Postdoctoral Research Scientist at the Chicago Botanic Garden. My research investigates how fire influences plant reproduction and population dynamics. I received my PhD from the University of Wisconsin-Madison where I studied the distribution, demography, and diversity of herbaceous plants in temperate forests. See [Jared's CV](/content/beck_cv_1Jan2025.pdf).
+I am a Research Ecologist at the University of Wisconsin-Madison Arboretum. My research investigates various topics related to plant ecology, conservation, and ecological restoration. My most recent research focused on plant and insect responses to the combined effects of fire and fragmentation in tallgrass prairie. See [Jared's CV](/content/beck_cv_1Jan2025.pdf).
 
 In my spare time, I enjoy birding, botanizing, and generally exploring the natural world. I have a special affinity for (some might say obsession with) lilies, ducks, and mapping.
 
@@ -12,4 +12,4 @@ BA Biology, Carleton College (2010-2014)
 PhD Botany, University of Wisconsin-Madison (2016-2020)
 
 #### Contact information
-jared.j.beck@gmail.com
+jared.beck@wisc.edu
