@@ -4,7 +4,7 @@
 
 * **Beck, J.** and S. Wagenius. Seedling recruitment after fire: Disentangling the roles of microsite conditions and seed availability. *In review.* [Preprint]( https://www.biorxiv.org/content/10.1101/2024.11.12.623237v1)
 * Maton, D., **J. Beck**, S. Wagenius, D. Maddox, and M. Ashley. Persistence in a fragmented habitat: Genetic diversity and pollination patterns in *Asclepias viridiflora*. *In review.* 
-* **Beck, J.**, A. Peschel, S. Wagenius, and R. Shaw. Sourcing seed for restorations in an era of climate change: Conceptual frameworks and available evidence. *In review.*
+* **Beck, J.**, A. Peschel, S. Wagenius, and R. Shaw. *In press*. Sourcing seed for restorations in an era of climate change: Conceptual frameworks and available evidence. Restoration Ecology.
 * **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. Scaling from individuals to communities: Functional and demographic differences predict the ecologically nested distribution of congeneric forest herbs. *In review.*
 * **Beck, J.**, G. Kiefer. R. Johnson, R. Dana, B. Winter, and S. Wagenius. 2025. Long-term effects of haying and prescribed fire on the composition and diversity of wet prairie plant communities. Ecological Applications 35:e70080.
 * **Beck, J.** and S. Wagenius. 2025. Herbivory exacerbates pollen limitation by isolating unconsumed plants from prospective mates. American Journal of Botany 112:e70002.
