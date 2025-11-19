@@ -3,9 +3,9 @@
 [Google Scholar](https://scholar.google.com/citations?user=IC3onsQAAAAJ&hl=en&oi=ao)  \|  [ORCID](https://orcid.org/0000-0001-9515-5440)
 
 * **Beck, J.** and S. Wagenius. Seedling recruitment after fire: Disentangling the roles of microsite conditions and seed availability. *In review.* [Preprint]( https://www.biorxiv.org/content/10.1101/2024.11.12.623237v1)
-* Maton, D., **J. Beck**, S. Wagenius, D. Maddox, and M. Ashley. Persistence in a fragmented habitat: Genetic diversity and pollination patterns in *Asclepias viridiflora*. *In review.*
 * Radhamoni, H., M. Spicer, M. Duguid, L. Comita, E. Bruna, A. Andrade, **J. Beck**, J. Burton, H. Chuquillanqui, D. Cicuzza, M. Dovciak, F. Gilliam, K. Greig, C. Hale, C. Hulshof, N. Izlar, S. Johnson, J. LaManna, D. Matlaga, D. Melly, A. Menzmer, K. Miller, G. Moulatlet, J. Myers, J. Sah, M. Vaz, A. Wassel, S. Wessel, J. Yin, A. Zuluaga, and S. Queenborough. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. *In review.*
 * **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. Scaling from individuals to communities: Functional and demographic differences predict the ecologically nested distribution of congeneric forest herbs. *In review.*
+* Maton, D., **J. Beck**, S. Wagenius, D. Maddox, and M. Ashley. *In press.* Persistence in a fragmented habitat: Genetic diversity and pollination patterns in *Asclepias viridiflora*. Annals of Botany.
 * **Beck, J.**, A. Peschel, S. Wagenius, and R. Shaw. 2025. Sourcing seed for restorations in an era of climate change: Conceptual frameworks and available evidence. Restoration Ecology e70187.
 * **Beck, J.**, G. Kiefer. R. Johnson, R. Dana, B. Winter, and S. Wagenius. 2025. Long-term effects of haying and prescribed fire on the composition and diversity of wet prairie plant communities. Ecological Applications 35:e70080.
 * **Beck, J.** and S. Wagenius. 2025. Herbivory exacerbates pollen limitation by isolating unconsumed plants from prospective mates. American Journal of Botany 112:e70002.
