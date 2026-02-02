@@ -1,6 +1,6 @@
 ## Undergraduate research opportunities - Summer 2026!
 
-Jared will be hiring two Undergraduate Research Assistants to __ fieldwork at the UW-Madison Arboretum during summer 2026 to assist with field research projects at the Arboretum. No prior research experience is necessary but enthusiasm for working outdoors, an interest in plant ecology, and curiosity about the natural world are essential!. Applicants must be enrolled at UW-Madison during both spring 2026 and fall 2026 to be eligible. See position description and [job posting](https://studentjobs.hr.wisc.edu/cw/en-us/job/511038).
+Jared will be hiring two Undergraduate Research Assistants for summer 2026 to assist with field research projects at the UW-Madison Arboretum. No prior research experience is necessary but enthusiasm for working outdoors, an interest in plant ecology, and curiosity about the natural world are essential!. Applicants must be enrolled at UW-Madison during both spring 2026 and fall 2026 to be eligible. See position description and [job posting](https://studentjobs.hr.wisc.edu/cw/en-us/job/511038).
 
 
 ## For prospective graduate students
