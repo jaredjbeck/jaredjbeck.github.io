@@ -1,4 +1,4 @@
-## Undergraduate research opportunities --- Summer 2026!
+## Undergraduate research opportunities---Summer 2026!
 
 
 
