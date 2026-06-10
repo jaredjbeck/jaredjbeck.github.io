@@ -30,7 +30,6 @@ observations of biodiversity in a grassland chronosequence. Journal of Vegetatio
 * Paulson, A., **J. Beck**, J. Richards, R. Toczydlowski, D. Li, S. Johnson, D. Rogers, G. Sonnier, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Taxonomic, function, and phyologenetic diversity metrics provide complementary insights into the multiple dimensions of biodiversity change. *In preparation.*
 * Waananen, A., **J. Beck**, R. Shaw, and S. Wagenius. Scale-dependent effects of spatial isolation and phenological asynchrony on plant reproductive fitness. *In preparation.*
 * Richardson, L., **J. Beck**, and S. Wagenius. Individual-level differences in reproductive fitness between burned and unburned years reflect spatial and temporal mating opportunities.  *In preparation.*
-* Paulson, L., A. Carroll, A. Waananen, **J. Beck**, and S. Wagenius. Effects of liquid smoke on flowering in a widespread prairie plant. *In preparation.*
 * **Beck, J.** and S. Wagenius. Fire enhances reproductive outcomes in fragmented green milkweed (*Asclepias viridiflora*) populations. *In preparation.*
 
 
