@@ -2,8 +2,8 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=IC3onsQAAAAJ&hl=en&oi=ao)  \|  [ORCID](https://orcid.org/0000-0001-9515-5440)
 
-* Radhamoni, H., M. Spicer, M. Duguid, L. Comita, E. Bruna, A. Andrade, **J. Beck**, J. Burton, H. Chuquillanqui, D. Cicuzza, M. Dovciak, F. Gilliam, K. Greig, C. Hale, C. Hulshof, N. Izlar, S. Johnson, J. LaManna, D. Matlaga, D. Melly, A. Menzmer, K. Miller, G. Moulatlet, J. Myers, J. Sah, M. Vaz, A. Wassel, S. Wessel, J. Yin, A. Zuluaga, and S. Queenborough. Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. *In review.*
 * **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. Scaling from individuals to communities: Functional and demographic differences predict the ecologically nested distribution of congeneric forest herbs. *In review.*
+* Radhamoni, H., M. Spicer, M. Duguid, L. Comita, E. Bruna, A. Andrade, **J. Beck**, J. Burton, H. Chuquillanqui, D. Cicuzza, M. Dovciak, F. Gilliam, K. Greig, C. Hale, C. Hulshof, N. Izlar, S. Johnson, J. LaManna, D. Matlaga, D. Melly, A. Menzmer, K. Miller, G. Moulatlet, J. Myers, J. Sah, M. Vaz, A. Wassel, S. Wessel, J. Yin, A. Zuluaga, and S. Queenborough. *In press.* Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. Journal of Vegetation Science.
 * **Beck, J.** and S. Wagenius. *In press.* Experimental evidence that seed availability and microsite conditions influence post-fire seedling recruitment. Journal of Ecology.
 * Maton, D., **J. Beck**, S. Wagenius, D. Maddox, and M. Ashley. 2025. Persistence in a fragmented habitat: Genetic diversity and pollination patterns in *Asclepias viridiflora*. Annals of Botany mcaf287.
 * **Beck, J.**, A. Peschel, S. Wagenius, and R. Shaw. 2025. Sourcing seed for restorations in an era of climate change: Conceptual frameworks and available evidence. Restoration Ecology 33: e70187.
