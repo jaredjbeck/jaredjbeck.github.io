@@ -2,6 +2,7 @@
 
 [Google Scholar](https://scholar.google.com/citations?user=IC3onsQAAAAJ&hl=en&oi=ao)  \|  [ORCID](https://orcid.org/0000-0001-9515-5440)
 
+* Hirzel, G., W. Mosiman, **J. Beck**, R. Roy, J. Prasifka, and S. Wagenius. Post-fire pollen availability reflects greater floral abundance, not increases in pollen production per flower, in a widespread prairie perennial. *In review.*
 * **Beck, J.**, A. Salvi, R. Henderson, and D. Waller. Scaling from individuals to communities: Functional and demographic differences predict the ecologically nested distribution of congeneric forest herbs. *In review.*
 * Radhamoni, H., M. Spicer, M. Duguid, L. Comita, E. Bruna, A. Andrade, **J. Beck**, J. Burton, H. Chuquillanqui, D. Cicuzza, M. Dovciak, F. Gilliam, K. Greig, C. Hale, C. Hulshof, N. Izlar, S. Johnson, J. LaManna, D. Matlaga, D. Melly, A. Menzmer, K. Miller, G. Moulatlet, J. Myers, J. Sah, M. Vaz, A. Wassel, S. Wessel, J. Yin, A. Zuluaga, and S. Queenborough. *In press.* Herbaceous plants in forest ecosystems: One hundred fundamental and applied questions. Journal of Vegetation Science.
 * **Beck, J.** and S. Wagenius. *In press.* Experimental evidence that seed availability and microsite conditions influence post-fire seedling recruitment. Journal of Ecology.
