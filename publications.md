@@ -32,6 +32,8 @@ observations of biodiversity in a grassland chronosequence. Journal of Vegetatio
 * **Beck, J.** and S. Wagenius. Fire enhances reproductive outcomes in fragmented green milkweed (*Asclepias viridiflora*) populations. *In preparation.*
 * Ison, J., M. Woldin, **J. Beck**, J. Davis, W. M. Likins, and S. Wagenius. Post-fire increases in seed set are unrelated to rates of pollinator visitation or floral fidelity. *In preparation.*
 * Roberts, I., **J. Beck**. Z. Portman, and S. Wagenius. Site history and prescribed fire influence bee nesting in a fragmented prairie landscape. *In preparation.*
+* Kiefer, G., **J. Beck**, N. Sather, R. Johnson, B. Winter, R. Dana, and S. Wagenius. Long-term effects of haying and prescribed fire on the federally threatened Western Prairie Fringed Orchid (*Platanthera praeclara*). *In preparation.*
+* Spicer, M., H. Radhamoni, M. Duguid, L. Comita, E. Bruna, A. Andrade, **J. Beck**, J. Burton, H. Chuquillanqui, D. Cicuzza, M. Dovciak, F. Gilliam, K. Greig, C. Hale, C. Hulshof, N. Izlar, S. Johnson, J. LaManna, D. Matlaga, D. Melly, A. Menzmer, K. Miller, G. Moulatlet, J. Myers, J. Sah, M. Vaz, A. Wassel, S. Wessel, J. Yin, A. Zuluaga, and S. Queenborough. Standardized methods for incorporating herbaceous plant surveys into existing global permanent tree plot networks. *In preparation.*
 
 
 
