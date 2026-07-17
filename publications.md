@@ -28,7 +28,7 @@ observations of biodiversity in a grassland chronosequence. Journal of Vegetatio
 
 * **Beck, J.**, S. Nordstrom, L. Richardson, A. Waananen, R. Shaw, and S. Wagenius. Limited mating opportunities exacerbate extinction risks in fragmented plant populations. *In preparation.*
 * Paulson, A., **J. Beck**, J. Richards, R. Toczydlowski, D. Li, S. Johnson, D. Rogers, G. Sonnier, K. Cameron, K. Sytsma, T. Givnish, and D. Waller. Taxonomic, function, and phyologenetic diversity metrics provide complementary insights into the multiple dimensions of biodiversity change. *In preparation.*
-* Waananen, A., **J. Beck**, R. Shaw, and S. Wagenius. Scale-dependent effects of spatial isolation and phenological asynchrony on plant reproductive fitness. *In preparation.*
+* Waananen, A., **J. Beck**, R. Shaw, and S. Wagenius. Spatial and temporal isolation of individuals underlie mate-finding Allee effects in fragmented populations. *In preparation.*
 * **Beck, J.** and S. Wagenius. Fire enhances reproductive outcomes in fragmented green milkweed (*Asclepias viridiflora*) populations. *In preparation.*
 * Ison, J., M. Woldin, **J. Beck**, J. Davis, W. M. Likins, and S. Wagenius. Post-fire increases in seed set are unrelated to rates of pollinator visitation or floral fidelity. *In preparation.*
 * Roberts, I., **J. Beck**. Z. Portman, and S. Wagenius. Site history and prescribed fire influence bee nesting in a fragmented prairie landscape. *In preparation.*
